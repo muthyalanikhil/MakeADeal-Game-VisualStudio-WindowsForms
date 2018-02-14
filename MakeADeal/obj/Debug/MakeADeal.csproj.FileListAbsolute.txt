@@ -1,0 +1,13 @@
+c:\users\nikhil\documents\visual studio 2015\Projects\MakeADeal\MakeADeal\bin\Debug\MakeADeal.exe.config
+c:\users\nikhil\documents\visual studio 2015\Projects\MakeADeal\MakeADeal\bin\Debug\MakeADeal.exe
+c:\users\nikhil\documents\visual studio 2015\Projects\MakeADeal\MakeADeal\bin\Debug\MakeADeal.pdb
+c:\users\nikhil\documents\visual studio 2015\Projects\MakeADeal\MakeADeal\obj\Debug\MakeADeal.csprojResolveAssemblyReference.cache
+c:\users\nikhil\documents\visual studio 2015\Projects\MakeADeal\MakeADeal\obj\Debug\MakeADeal.GameScreen.resources
+c:\users\nikhil\documents\visual studio 2015\Projects\MakeADeal\MakeADeal\obj\Debug\MakeADeal.Properties.Resources.resources
+c:\users\nikhil\documents\visual studio 2015\Projects\MakeADeal\MakeADeal\obj\Debug\MakeADeal.csproj.GenerateResource.Cache
+c:\users\nikhil\documents\visual studio 2015\Projects\MakeADeal\MakeADeal\obj\Debug\MakeADeal.exe
+c:\users\nikhil\documents\visual studio 2015\Projects\MakeADeal\MakeADeal\obj\Debug\MakeADeal.pdb
+C:\Users\nikhil\Documents\Visual Studio 2015\Projects\MakeADeal\MakeADeal\bin\Debug\MakeADeal.exe.manifest
+C:\Users\nikhil\Documents\Visual Studio 2015\Projects\MakeADeal\MakeADeal\bin\Debug\MakeADeal.application
+C:\Users\nikhil\Documents\Visual Studio 2015\Projects\MakeADeal\MakeADeal\obj\Debug\MakeADeal.exe.manifest
+C:\Users\nikhil\Documents\Visual Studio 2015\Projects\MakeADeal\MakeADeal\obj\Debug\MakeADeal.application
